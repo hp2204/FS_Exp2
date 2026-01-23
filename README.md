@@ -24,20 +24,18 @@ To design and implement a responsive frontend user interface using React and mod
 - JavaScript (ES6)
 
 ---
-
-## UI Output Screenshots
-
 ### File 1 Output
-![File 1 UI](c:\Users\pande\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\F28ABC515AE01E5863A9B81393F5476742F8DFB0\transfers\2026-04\WhatsApp Image 2026-01-23 at 2.25.37 PM.jpeg)
+![alt text](screenshots/file1.png)
 
 ### File 2 Output
-![File 2 UI](c:\Users\pande\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\F28ABC515AE01E5863A9B81393F5476742F8DFB0\transfers\2026-04\WhatsApp Image 2026-01-23 at 2.26.24 PM.jpeg)
+![alt text](screenshots/file2.png)
 
 ### File 3 Output
-![File 3 UI](sc:\Users\pande\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\F28ABC515AE01E5863A9B81393F5476742F8DFB0\transfers\2026-04\WhatsApp Image 2026-01-23 at 2.27.20 PM.jpeg)
+![alt text](screenshots/file3.png)
 
 ### File 4 Output
-![File 4 UI](c:\Users\pande\AppData\Local\Packages\5319275A.WhatsAppDesktop_cv1g1gvanyjgm\LocalState\sessions\F28ABC515AE01E5863A9B81393F5476742F8DFB0\transfers\2026-04\WhatsApp Image 2026-01-23 at 2.24.47 PM.jpeg)
+![alt text](screenshots/file4.png)
+
 
 ---
 
