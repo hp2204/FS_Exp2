@@ -25,16 +25,16 @@ To design and implement a responsive frontend user interface using React and mod
 
 ---
 ### File 1 Output
-![alt text](screenshots/file1.png)
+![alt text](file1.png)
 
 ### File 2 Output
-![alt text](screenshots/file1.png)
+![alt text](file1.png)
 
 ### File 3 Output
-![alt text](screenshots/file3.png)
+![alt text](file3.png)
 
 ### File 4 Output
-![alt text](screenshots/file4.png)
+![alt text](file4.png)
 
 
 ---
