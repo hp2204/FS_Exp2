@@ -28,19 +28,19 @@ To design and implement a responsive frontend user interface using React and mod
 ## File Output
 
 <p align="center">
-  <img src="./file1.png" width="500" alt="Student Form UI">
+  <img src="screenshots/file1.png" width="500" alt="Hershy’s Kitchen Home Page">
 </p>
 
 <p align="center">
-  <img src="./file2.png" width="500" alt="Card-based UI Layout">
+  <img src="screenshots/file2.png" width="500" alt="Food Menu Section">
 </p>
 
 <p align="center">
-  <img src="./file3.png" width="500" alt="Material UI Components">
+  <img src="screenshots/file3.png" width="500" alt="Cart and Order Flow UI">
 </p>
 
 <p align="center">
-  <img src="./file4.png" width="500" alt="Responsive Navigation Bar">
+  <img src="screenshots/file4.png" width="500" alt="Responsive Navigation Bar">
 </p>
 
 
