@@ -28,7 +28,7 @@ To design and implement a responsive frontend user interface using React and mod
 ## File Output
 
 <p align="center">
-  <img src="screenshots/file1.png" width="500" alt="Hershy’s Kitchen Home Page">
+  <img src="screenshots/file1.jpeg" width="500" alt="Hershy’s Kitchen Home Page">
 </p>
 
 <p align="center">
