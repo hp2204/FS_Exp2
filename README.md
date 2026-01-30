@@ -32,15 +32,15 @@ To design and implement a responsive frontend user interface using React and mod
 </p>
 
 <p align="center">
-  <img src="screenshots/file2.png" width="500" alt="Food Menu Section">
+  <img src="screenshots/file2.jpeg" width="500" alt="Food Menu Section">
 </p>
 
 <p align="center">
-  <img src="screenshots/file3.png" width="500" alt="Cart and Order Flow UI">
+  <img src="screenshots/file3.jpeg" width="500" alt="Cart and Order Flow UI">
 </p>
 
 <p align="center">
-  <img src="screenshots/file4.png" width="500" alt="Responsive Navigation Bar">
+  <img src="screenshots/file4.jpeg" width="500" alt="Responsive Navigation Bar">
 </p>
 
 
